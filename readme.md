@@ -1,3 +1,6 @@
+# CustomRightClick.js
+[Preview](https://frontesque.github.io/CustomRightClick.js/)
+
 ## What is CustomRightClick.js?
 CustomRightClick.js replaces your browser's default context menu (right click menu) on any webpage you add it to.
 
